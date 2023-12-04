@@ -1,4 +1,7 @@
 <div align="center">
+<h1 align="center">注意！！！本仓库为自用仓库，与原版相比有较多修改，如有需要，请前往<a href='https://github.com/Yidadaa/ChatGPT-Next-Web'>原版仓库</a></h1>
+<br/>
+<br/>
 <img src="./docs/images/icon.svg" alt="icon"/>
 
 <h1 align="center">ChatGPT Next Web</h1>
