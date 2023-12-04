@@ -158,7 +158,7 @@ export function SideBar(props: { className?: string }) {
           HaystackGPT
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          Make your work convenient and make your life fun.
+          Make your work convenient.
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
